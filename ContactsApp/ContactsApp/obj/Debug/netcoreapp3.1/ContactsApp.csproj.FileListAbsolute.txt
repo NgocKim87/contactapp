@@ -1,0 +1,13 @@
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.exe
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.deps.json
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.runtimeconfig.json
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.runtimeconfig.dev.json
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.dll
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\bin\Debug\netcoreapp3.1\ContactsApp.pdb
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.csprojAssemblyReference.cache
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.AssemblyInfoInputs.cache
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.AssemblyInfo.cs
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.dll
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.pdb
+C:\Users\Ngoc Kim\Documents\GitHub\contactapp\ContactsApp\ContactsApp\obj\Debug\netcoreapp3.1\ContactsApp.genruntimeconfig.cache
