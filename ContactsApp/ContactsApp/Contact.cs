@@ -6,6 +6,7 @@ namespace ContactsApp
 {
     class Contact
     {
+        //GHI CHÚ 
         string ho;
         string ten;
         string diachi;
